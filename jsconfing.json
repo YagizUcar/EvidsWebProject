@@ -1,0 +1,9 @@
+{
+    "compilerOptions": {
+    "target": "esnext",
+    "module": "esnext"
+  },
+  "vueCompilerOptions": {
+    "target": "2.7"
+  }
+}
